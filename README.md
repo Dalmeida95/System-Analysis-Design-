@@ -1,1 +1,8 @@
 # System-Analysis-Design-
+Through this course, I was assigned a project to gather requirements and design a system for DriverPass. Liam, the owner, wanted to create a platform to help students prepare for their driving tests at their local DMV and give them a stronger chance of passing. I designed three diagrams that illustrate several key tasks within the system.
+
+One area I found most challenging was designing diagrams. I plan to continue working on improving my diagramming skills over time. Now that I have gained the necessary knowledge, I will begin creating additional system designs and uploading them to my repository as I progress.
+
+I interpreted the user's needs and implemented them into the system by identifying the core functionalities expected from a driving training platform, such as scheduling, progress tracking, course materials, and payment processing. Based on these needs, the system was designed to be accessible across Windows, iOS, and Linux operating systems. Additionally, the system uses secure cloud-based storage to provide easy access to information and regular backups. Role-based access control was also implemented to ensure security, accountability, and to meet the practical and administrative needs of both users and staff.
+
+When approaching software design, I would conduct interviews to gather and analyze requirements, ensuring a complete understanding of the system’s goals. I would also survey employees from different departments to collect additional feedback and concerns. Techniques such as drafting diagrams to illustrate functionality and relationships would continue to be an important part of my analysis and design process.
